@@ -9,8 +9,6 @@ I'm a **Computer Science Student** at **Imam Abdulrahman Bin Faisal University (
 - 💻 Love building **personal projects** to sharpen my skills
 - 🎯 Focused on writing clean, maintainable code
 
----
-
 ## Tech Stack
 
 ### Languages
@@ -27,8 +25,6 @@ I'm a **Computer Science Student** at **Imam Abdulrahman Bin Faisal University (
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB-DD0031?style=for-the-badge&logo=pingcap&logoColor=white)
 
----
-
 ## Connect With Me
 
 <p align="center">
@@ -38,10 +34,4 @@ I'm a **Computer Science Student** at **Imam Abdulrahman Bin Faisal University (
   <a href="mailto:Jawad.Alnatah@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.</i>
 </p>
