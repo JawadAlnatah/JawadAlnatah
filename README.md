@@ -1,5 +1,4 @@
-# Hi there,
-I'm Jawad Alnatah! 👋
+# Hi there, I'm Jawad Alnatah! 👋
 
 ## About Me
 
@@ -42,10 +41,6 @@ I'm a **Computer Science Student** at **Imam Abdulrahman Bin Faisal University (
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JawadAlnatah&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.</i>
