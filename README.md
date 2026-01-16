@@ -1,4 +1,5 @@
-# Hi there, I'm Jawad Alnatah! 👋
+ Hi there!
+I'm Jawad Alnatah! 👋
 
 ## About Me
 
